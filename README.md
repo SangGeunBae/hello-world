@@ -1,2 +1,4 @@
 # hello-world
-start github
+
+hello my name is SangGeun-Bae
+I can success anyway
